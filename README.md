@@ -8,7 +8,7 @@ An IoT-based wearable safety system that integrates multiple sensors into a stan
 
 ## 📹 Demo Video
 
-[![Smart Safety Helmet Demo](https://img.youtube.com/vi/WrGliUR9ckw/maxresdefault.jpg)]([https://www.youtube.com/watch?v=WrGliUR9ckw](https://youtu.be/WrGliUR9ckw))
+[![Smart Safety Helmet Demo](https://img.youtube.com/vi/WrGliUR9ckw/maxresdefault.jpg)](https://www.youtube.com/watch?v=WrGliUR9ckw)
 
 > Click the thumbnail above to watch the full project demo on YouTube.
 
