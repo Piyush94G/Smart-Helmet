@@ -6,6 +6,31 @@ An IoT-based wearable safety system that integrates multiple sensors into a stan
 
 ---
 
+## 📹 Demo Video
+
+[![Smart Safety Helmet Demo](https://img.youtube.com/vi/WrGliUR9ckw/maxresdefault.jpg)]([https://www.youtube.com/watch?v=WrGliUR9ckw](https://youtu.be/WrGliUR9ckw))
+
+> Click the thumbnail above to watch the full project demo on YouTube.
+
+---
+
+## 📋 Table of Contents
+
+- [Demo Video](#demo-video)
+- [Overview](#overview)
+- [Features](#features)
+- [Hardware Components](#hardware-components)
+- [Software & Libraries](#software--libraries)
+- [Circuit Connections](#circuit-connections)
+- [How It Works](#how-it-works)
+- [Installation & Setup](#installation--setup)
+- [Code Structure](#code-structure)
+- [Preliminary Results](#preliminary-results)
+- [Future Enhancements](#future-enhancements)
+- [Team](#team)
+
+---
+
 ## 🧭 Overview
 
 Industrial workers and miners are frequently exposed to life-threatening hazards — toxic gas leaks, extreme temperatures, falls, and poor visibility. Traditional helmets offer only physical protection with no real-time monitoring.
@@ -187,7 +212,7 @@ We have successfully integrated and tested the following:
 - ✅ **LDR** — auto headlamp activation in low-light conditions
 - ✅ **Buzzer + 3 LEDs** — visual/auditory alert system fully functional
 - ✅ **WiFiManager** — Wi-Fi setup via captive portal
-- ✅ **Message Alert** — fall detection alert sent to emergency contact via HTTP
+- ✅ **WhatsApp Alert** — fall detection alert sent to emergency contact via HTTP
 
 **LED Status Key:**
 | LED Color | Condition |
@@ -209,5 +234,6 @@ We have successfully integrated and tested the following:
 - [ ] ThingSpeak cloud dashboard for supervisor monitoring
 - [ ] Mobile app for real-time worker tracking
 
+---
 
 > ⛑️ *Built with care for the workers who keep industries running safely.*
