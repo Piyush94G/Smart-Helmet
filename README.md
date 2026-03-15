@@ -14,23 +14,6 @@ An IoT-based wearable safety system that integrates multiple sensors into a stan
 
 ---
 
-## 📋 Table of Contents
-
-- [Demo Video](#demo-video)
-- [Overview](#overview)
-- [Features](#features)
-- [Hardware Components](#hardware-components)
-- [Software & Libraries](#software--libraries)
-- [Circuit Connections](#circuit-connections)
-- [How It Works](#how-it-works)
-- [Installation & Setup](#installation--setup)
-- [Code Structure](#code-structure)
-- [Preliminary Results](#preliminary-results)
-- [Future Enhancements](#future-enhancements)
-- [Team](#team)
-
----
-
 ## 🧭 Overview
 
 Industrial workers and miners are frequently exposed to life-threatening hazards — toxic gas leaks, extreme temperatures, falls, and poor visibility. Traditional helmets offer only physical protection with no real-time monitoring.
